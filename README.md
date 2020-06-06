@@ -5,7 +5,7 @@ winbox-export-parser is a tool used to parse the export file from the MikroTik's
 
 ### Installation
 ```shell
-git clone git@github.com:mskrha/winbox-export-parser.git
+git clone https://github.com/mskrha/winbox-export-parser.git
 cd winbox-export-parser
 make
 ```
