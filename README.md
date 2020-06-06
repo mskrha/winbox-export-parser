@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/mskrha/winbox-export-parser)](https://goreportcard.com/report/github.com/mskrha/winbox-export-parser)
+
 ## winbox-export-parser
 
 ### Description
